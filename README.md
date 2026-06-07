@@ -3,14 +3,14 @@
 A lightweight Java web application for logging and analyzing daily moods.
 
 ## Features
-- 😊 Log mood from 8 types: Happy, Sad, Anxious, Calm, Excited, Angry, Tired, Grateful
-- ⭐ Intensity scale 1–5 per entry
-- 📝 Optional free-text note per entry
-- 📊 Doughnut chart of mood distribution
-- 📈 Stacked weekly bar chart showing mood patterns over 4 weeks
-- 🔍 Filter log by mood type
-- 🌱 Auto-seeded with 28 days of sample data on first run
-- 💾 Persistent CSV storage
+- Log mood from 8 types: Happy, Sad, Anxious, Calm, Excited, Angry, Tired, Grateful
+- Intensity scale 1–5 per entry
+- Optional free-text note per entry
+- Doughnut chart of mood distribution
+- Stacked weekly bar chart showing mood patterns over 4 weeks
+- Filter log by mood type
+- Auto-seeded with 28 days of sample data on first run
+- Persistent CSV storage
 
 ## How to Run
 
